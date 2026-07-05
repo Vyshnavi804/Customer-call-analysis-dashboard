@@ -164,7 +164,7 @@ Call-Center-Dashboard/
 ---
 ## 📊 Dashboard Preview
 
-![Call Center Dashboard](customer_call_dashboard.jpeg)
+![Call Center Dashboard](customer_calls_dashboard.jpeg)
 
 ## 👩‍💻 Author
 
